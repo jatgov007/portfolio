@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Creative - Start Bootstrap Theme</title>
+    <title>Jatin Profile</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="public/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -43,7 +43,7 @@
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">Start Bootstrap</a>
+                <a class="navbar-brand page-scroll" href="#page-top">JATIN</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -71,9 +71,9 @@
     <header>
         <div class="header-content">
             <div class="header-content-inner">
-                <h1 id="homeHeading">Your Favorite Source of Free Bootstrap Themes</h1>
+                <h1 id="homeHeading">JATIN PATEL</h1>
                 <hr>
-                <p>Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!</p>
+                <p>A FULL STACK JAVA DEVELOPER !! </p>
                 <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
             </div>
         </div>
@@ -83,9 +83,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">We've got what you need!</h2>
+                    <h2 class="section-heading">I Am What I Create!</h2>
                     <hr class="light">
-                    <p class="text-faded">Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</p>
+                    <p class="text-faded">Hi! How you doing?. I'm Jatin, A Full Stack Java Developer, living in New Jersey,USA. I enjoyed developing web application and solve algorithm challenges. Currently I am trying to keep update my Frontend and Backend knowledge and skills through Distance learning. </p>
                     <a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Get Started!</a>
                 </div>
             </div>
@@ -103,51 +103,51 @@
         </div>
         <div class="container">
             <div class="row">
-                <div class="col-lg-3 col-md-6 text-center">
+                <div class="col-lg-4 col-md-6 text-center">
                     <div class="service-box">
-                        <i class="fa fa-4x fa-diamond text-primary sr-icons"></i>
-                        <h3>Sturdy Templates</h3>
-                        <p class="text-muted">Our templates are updated regularly so they don't break.</p>
+                        <i class="fa fa-graduation-cap fa-2x fa-about"></i>
+                        <h3>Education</h3>
+                        <p> <u>Master of Science in Computer Science</u> - December 2016 <br/> <span>Fairleigh Dickinson University, Teaneck, NJ</span> <br/> <u>Cummulative GPA</u> - 3.77 <br/> <u>Relevent Courses</u> - <span>Database Managment, Operating Systems, Java and Internet, Assembly Language, Computer Architecture, Mobile Programming, System Programming, Software Engineering. </span><br/>                                <u>Bachelor of Engineering in Information Technology</u> - June 2014 <br/> <span>Gujarat Technological University, Gujarat, India</span> <br/> </p>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 text-center">
+                <div class="col-lg-4 col-md-6 text-center">
                     <div class="service-box">
-                        <i class="fa fa-4x fa-paper-plane text-primary sr-icons"></i>
-                        <h3>Ready to Ship</h3>
-                        <p class="text-muted">You can use this theme as is, or you can make changes!</p>
+                        <i class="fa fa-suitcase fa-2x fa-about"></i>
+                        <h3>Internship</h3>
+                       <p> <u>Skydell Infotech</u> Aug 2016 - Dec 2016 <br/> <u>Outcomes</u> • Assisted with the project management, content, and development of websites on multiple platforms<br/>• Built a complete website for the company's client using
+                                Wordpress as a content management system.<br/>• Learned how to structure pages of content, business listings, and website files to ensure best, SEO practices.<br/>• Assisted with making updates to client websites and build
+                                landing pages from the ground up<br/> </p>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 text-center">
+                <div class="col-lg-4 col-md-6 text-center">
                     <div class="service-box">
-                        <i class="fa fa-4x fa-newspaper-o text-primary sr-icons"></i>
-                        <h3>Up to Date</h3>
-                        <p class="text-muted">We update dependencies to keep things fresh.</p>
+                        <i class="fa fa-rocket fa-2x fa-about"></i>
+                        <h3>Skills</h3>
+                        <p> <u>JAVA</u> - <span>JSP, Servlet, JDBC, Sockets, Restful Web Services, Jersey, Jax-rs, Swing, Applets, Android, Multithreading</span> <br/> <u>JavaScript</u> - <span>Vanilla Javascript, Node.js, Express.js, NPM, Ajax, Jquery, Chart.js </span>                                <br/> <u>Database</u> - <span>MongoDB, Oracle, MySQL</span> <br/> <u>Development</u> - <span>Heroku, Openshift, Maven, git, svn</span> <br/> <u>Linux</u> - <span>Terminal, Shell Scripting, Grep, Sed, Awk </span> <br/> <u>Design</u>                                - <span>Heroku, Openshift, Maven, git, svn, Linux/windows, Terminal, OAuth</span> <br/> <u>Related Skills</u> - <span>Object-Oriented Design Pattern, Software Development Life Cycle, Agile Software Development</span> </p>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 text-center">
-                    <div class="service-box">
-                        <i class="fa fa-4x fa-heart text-primary sr-icons"></i>
-                        <h3>Made with Love</h3>
-                        <p class="text-muted">You have to make your websites with love these days!</p>
-                    </div>
-                </div>
+               
             </div>
         </div>
+        
     </section>
+   
 
     <section class="no-padding" id="portfolio">
         <div class="container-fluid">
             <div class="row no-gutter popup-gallery">
                 <div class="col-lg-4 col-sm-6">
-                    <a href="img/portfolio/fullsize/1.jpg" class="portfolio-box">
-                        <img src="img/portfolio/thumbnails/1.jpg" class="img-responsive" alt="">
+                     <a href="https://github.com/jatgov007/HappyNewYear"></a>
+                    <a href="img/portfolio/fullsize/1_2.png" class="portfolio-box">
+                       
+                        <img src="img/portfolio/thumbnails/1_2.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    FRONT END APP
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    NEW YEAR APPLICATION
                                 </div>
                             </div>
                         </div>
@@ -235,8 +235,8 @@
     <aside class="bg-dark">
         <div class="container text-center">
             <div class="call-to-action">
-                <h2>Free Download at Start Bootstrap!</h2>
-                <a href="http://startbootstrap.com/template-overviews/creative/" class="btn btn-default btn-xl sr-button">Download Now!</a>
+                <h2>PROJECTS !</h2>
+                <a href="http://startbootstrap.com/template-overviews/creative/" class="btn btn-default btn-xl sr-button">Check It Now!</a>
             </div>
         </div>
     </aside>
@@ -247,15 +247,15 @@
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h2 class="section-heading">Let's Get In Touch!</h2>
                     <hr class="primary">
-                    <p>Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!</p>
+                    <p>Ready to start your next project with me? That's great! Give me a call or send me an email and I will get back to you as soon as possible!</p>
                 </div>
                 <div class="col-lg-4 col-lg-offset-2 text-center">
                     <i class="fa fa-phone fa-3x sr-contact"></i>
-                    <p>123-456-6789</p>
+                    <p>201-238-6731</p>
                 </div>
                 <div class="col-lg-4 text-center">
                     <i class="fa fa-envelope-o fa-3x sr-contact"></i>
-                    <p><a href="mailto:your-email@your-domain.com">feedback@startbootstrap.com</a></p>
+                    <p><a href="mailto:your-email@your-domain.com">Jatgov007@gmail.com</a></p>
                 </div>
             </div>
         </div>
