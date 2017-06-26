@@ -137,10 +137,8 @@
         <div class="container-fluid">
             <div class="row no-gutter popup-gallery">
                 <div class="col-lg-4 col-sm-6">
-                     <a href="https://github.com/jatgov007/HappyNewYear"></a>
-                    <a href="img/portfolio/fullsize/1_2.png" class="portfolio-box">
-                       
-                        <img src="img/portfolio/thumbnails/1_2.png" class="img-responsive" alt="">
+                     <a href="img/portfolio/fullsize/first.jpg" class="portfolio-box">
+                       <img src="img/portfolio/thumbnails/first.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -154,30 +152,30 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="img/portfolio/fullsize/2.jpg" class="portfolio-box">
-                        <img src="img/portfolio/thumbnails/2.jpg" class="img-responsive" alt="">
+                    <a href="img/portfolio/fullsize/second.jpg" class="portfolio-box">
+                        <img src="img/portfolio/thumbnails/second.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    Front End App
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Web Search Engine
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="img/portfolio/fullsize/3.jpg" class="portfolio-box">
-                        <img src="img/portfolio/thumbnails/3.jpg" class="img-responsive" alt="">
+                    <a href="img/portfolio/fullsize/third.jpg" class="portfolio-box">
+                        <img src="img/portfolio/thumbnails/third.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    Angular JS
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    To Do Application 
                                 </div>
                             </div>
                         </div>
