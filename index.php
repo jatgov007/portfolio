@@ -114,8 +114,8 @@
                     <div class="service-box">
                         <i class="fa fa-suitcase fa-2x fa-about"></i>
                         <h3>Internship</h3>
-                       <p> <u>Skydell Infotech</u> Aug 2016 - Dec 2016 <br/> <u>Outcomes</u> • Assisted with the project management, content, and development of websites on multiple platforms<br/>• Built a complete website for the company's client using
-                                Wordpress as a content management system.<br/>• Learned how to structure pages of content, business listings, and website files to ensure best, SEO practices.<br/>• Assisted with making updates to client websites and build
+                       <p> <u>Skydell Infotech</u> Aug 2016 - Dec 2016 <br/> <u>Outcomes</u> Assisted with the project management, content, and development of websites on multiple platforms<br/>Built a complete website for the company's client using
+                                Wordpress as a content management system.<br/>Learned how to structure pages of content, business listings, and website files to ensure best, SEO practices.<br/>Assisted with making updates to client websites and build
                                 landing pages from the ground up<br/> </p>
                     </div>
                 </div>
@@ -132,11 +132,11 @@
         
     </section>
    
-
-    <section class="no-padding" id="portfolio">
+<section class="no-padding" id="portfolio">
         <div class="container-fluid">
             <div class="row no-gutter popup-gallery">
                 <div class="col-lg-4 col-sm-6">
+                    <a href=" https://happy-newyear.herokuapp.com"><span><input type="button" value="Click Here"/></span></a> <br/>
                      <a href="img/portfolio/fullsize/first.jpg" class="portfolio-box">
                        <img src="img/portfolio/thumbnails/first.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -152,6 +152,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
+                    <a href="https://search1.herokuapp.com/"><span><input type="button" value="Click Here"/></span></a> <br/>
                     <a href="img/portfolio/fullsize/second.jpg" class="portfolio-box">
                         <img src="img/portfolio/thumbnails/second.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -167,6 +168,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
+                    <a href="https://todo-project-app.herokuapp.com"><span><input type="button" value="Click Here"/></span></a> <br/>
                     <a href="img/portfolio/fullsize/third.jpg" class="portfolio-box">
                         <img src="img/portfolio/thumbnails/third.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -182,15 +184,16 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="img/portfolio/fullsize/4.jpg" class="portfolio-box">
-                        <img src="img/portfolio/thumbnails/4.jpg" class="img-responsive" alt="">
+                    <a href="https://jcalculator.herokuapp.com/"><span><input type="button" value="Click Here"/></span></a> <br/>
+                    <a href="img/portfolio/fullsize/Fourth.jpg" class="portfolio-box">
+                        <img src="img/portfolio/thumbnails/Fourth.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    ANGULAR JS
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Calculator Application
                                 </div>
                             </div>
                         </div>
