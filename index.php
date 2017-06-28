@@ -2,12 +2,12 @@
 <html lang="en">
 
 <head>
-
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
+
 
     <title>Jatin Profile</title>
 
@@ -85,7 +85,7 @@
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h2 class="section-heading">I Am What I Create!</h2>
                     <hr class="light">
-                    <p class="text-faded">Hi! How you doing?. I'm Jatin, A Full Stack Java Developer, living in New Jersey,USA. I enjoyed developing web application and solve algorithm challenges. Currently I am trying to keep update my Frontend and Backend knowledge and skills through Distance learning. </p>
+                    <p class="text-faded">Hi! How you doing?. I'm Jatin, A Full Stack Java Developer, living in New Jersey,USA. I enjoyed developing web application and solve algorithm challenges. Currently I am trying to keep update my Front End and Backend knowledge and skills through Distance learning. </p>
                     <a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Get Started!</a>
                 </div>
             </div>
@@ -107,15 +107,15 @@
                     <div class="service-box">
                         <i class="fa fa-graduation-cap fa-2x fa-about"></i>
                         <h3>Education</h3>
-                        <p> <u>Master of Science in Computer Science</u> - December 2016 <br/> <span>Fairleigh Dickinson University, Teaneck, NJ</span> <br/> <u>Cummulative GPA</u> - 3.77 <br/> <u>Relevent Courses</u> - <span>Database Managment, Operating Systems, Java and Internet, Assembly Language, Computer Architecture, Mobile Programming, System Programming, Software Engineering. </span><br/>                                <u>Bachelor of Engineering in Information Technology</u> - June 2014 <br/> <span>Gujarat Technological University, Gujarat, India</span> <br/> </p>
+                        <p> <u>Master of Science in Computer Science</u> - December 2016 <br/> <span>Fairleigh Dickinson University, Teaneck, NJ</span> <br/> <u>Cummulative GPA</u> - 3.77 <br/> <u>Relevent Courses</u> - <span>Database Managment, Operating Systems, Java and Internet, Assembly Language, Computer Architecture, Mobile Programming, System Programming, Software Engineering. </span><br/><u>Bachelor of Engineering in Computer Engineering</u> - June 2013 <br/> <span>Charotar University of Science and Technology, Gujarat, India</span> <br/> </p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 text-center">
                     <div class="service-box">
                         <i class="fa fa-suitcase fa-2x fa-about"></i>
                         <h3>Internship</h3>
-                       <p> <u>Skydell Infotech</u> Aug 2016 - Dec 2016 <br/> <u>Outcomes</u> Assisted with the project management, content, and development of websites on multiple platforms<br/>Built a complete website for the company's client using
-                                Wordpress as a content management system.<br/>Learned how to structure pages of content, business listings, and website files to ensure best, SEO practices.<br/>Assisted with making updates to client websites and build
+                       <p> <u>Skydell Infotech</u> Jan 2013 - July 2013 <br/> <u>Outcomes</u> Assisted with the project management, content, and development of website.<br/>Built a complete website for the company's client using
+                                PHP as backend and developed rich GUI through JavaScript.<br/>Learned how to structure pages of content,apply the business logic.<br/>Assisted with making updates to client websites and build
                                 landing pages from the ground up<br/> </p>
                     </div>
                 </div>
@@ -123,7 +123,7 @@
                     <div class="service-box">
                         <i class="fa fa-rocket fa-2x fa-about"></i>
                         <h3>Skills</h3>
-                        <p> <u>JAVA</u> - <span>JSP, Servlet, JDBC, Sockets, Restful Web Services, Jersey, Jax-rs, Swing, Applets, Android, Multithreading</span> <br/> <u>JavaScript</u> - <span>Vanilla Javascript, Node.js, Express.js, NPM, Ajax, Jquery, Chart.js </span>                                <br/> <u>Database</u> - <span>MongoDB, Oracle, MySQL</span> <br/> <u>Development</u> - <span>Heroku, Openshift, Maven, git, svn</span> <br/> <u>Linux</u> - <span>Terminal, Shell Scripting, Grep, Sed, Awk </span> <br/> <u>Design</u>                                - <span>Heroku, Openshift, Maven, git, svn, Linux/windows, Terminal, OAuth</span> <br/> <u>Related Skills</u> - <span>Object-Oriented Design Pattern, Software Development Life Cycle, Agile Software Development</span> </p>
+                        <p> <u>JAVA</u> - <span>JSP, Servlet, JDBC, Sockets, Restful Web Services, Jersey, Jax-rs, Swing, Android, Multi threading</span> <br/> <u>JavaScript</u> - <span> Node.js, NPM, AJAX, JQuery, Angular Js</span><br/> <u>Database</u> - <span>Oracle, MySQL, MsSQL </span> <br/> <u>Development</u> - <span>Heroku, Maven, GIT</span> <br/><u>Design</u> - <span>Heroku, Maven, GIT</span> <br/> <u>Related Skills</u> - <span>Object-Oriented Design Pattern, Software Development Life Cycle, Agile Software Development</span> </p>
                     </div>
                 </div>
                
@@ -132,105 +132,101 @@
         
     </section>
    
-<section class="no-padding" id="portfolio">
-        <div class="container-fluid">
-            <div class="row no-gutter popup-gallery">
-                <div class="col-lg-4 col-sm-6">
-                    <a href=" https://happy-newyear.herokuapp.com"><span><input type="button" value="Click Here"/></span></a> <br/>
-                     <a href="img/portfolio/fullsize/first.jpg" class="portfolio-box">
-                       <img src="img/portfolio/thumbnails/first.jpg" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    FRONT END APP
-                                </div>
-                                <div class="project-name">
-                                    NEW YEAR APPLICATION
-                                </div>
-                            </div>
+    <section id="portfolio">
+        <div class="row">
+            <div class="col-sm-7">
+                <div class="bowser_container">
+                    <div class="bowser_header">
+                        <div class="button_container">
+                            <div class="minmize_button w_button"> </div>
+                            <div class="maximize_button w_button"> </div>
+                            <div class="close_button w_button"> </div>
                         </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="https://search1.herokuapp.com/"><span><input type="button" value="Click Here"/></span></a> <br/>
-                    <a href="img/portfolio/fullsize/second.jpg" class="portfolio-box">
-                        <img src="img/portfolio/thumbnails/second.jpg" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Front End App
-                                </div>
-                                <div class="project-name">
-                                    Web Search Engine
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="https://todo-project-app.herokuapp.com"><span><input type="button" value="Click Here"/></span></a> <br/>
-                    <a href="img/portfolio/fullsize/third.jpg" class="portfolio-box">
-                        <img src="img/portfolio/thumbnails/third.jpg" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Angular JS
-                                </div>
-                                <div class="project-name">
-                                    To Do Application 
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="https://jcalculator.herokuapp.com/"><span><input type="button" value="Click Here"/></span></a> <br/>
-                    <a href="img/portfolio/fullsize/Fourth.jpg" class="portfolio-box">
-                        <img src="img/portfolio/thumbnails/Fourth.jpg" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    ANGULAR JS
-                                </div>
-                                <div class="project-name">
-                                    Calculator Application
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="img/portfolio/fullsize/5.jpg" class="portfolio-box">
-                        <img src="img/portfolio/thumbnails/5.jpg" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="img/portfolio/fullsize/6.jpg" class="portfolio-box">
-                        <img src="img/portfolio/thumbnails/6.jpg" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
+
+                    </div>
+                    <div class="bowser_body"> <img src="img/Final/first.jpg" class="img img-responsive" alt="Project random quote"> </div>
                 </div>
             </div>
+            <div class="col-sm-4 project_text_container">
+                <h1>JS New Year App</h1>
+                <p>Show Remaining days to come New Year 2018</p>
+                <a href="https://happy-newyear.herokuapp.com" target="_blank"><btn class="btn btn-primary"> View Project</btn></a>
+                <a href="https://github.com/jatgov007/HappyNewYear" target="_blank"><btn class="btn btn-default">Source Code</btn></a>
+                <div class="badge_container"> <span class="badge">Html</span> <span class="badge">Css</span> <span class="badge">javascript</span> <span class="badge">Custom API</span> </div>
+            </div>
         </div>
+        <br/>
+        <div class="row">
+            <div class="col-sm-7">
+                <div class="bowser_container">
+                    <div class="bowser_header">
+                        <div class="button_container">
+                            <div class="minmize_button w_button"> </div>
+                            <div class="maximize_button w_button"> </div>
+                            <div class="close_button w_button"> </div>
+                        </div>
+
+                    </div>
+                    <div class="bowser_body"> <img src="img/Final/second.jpg" class="img img-responsive" alt="Project random quote"> </div>
+                </div>
+            </div>
+            <div class="col-sm-4 project_text_container">
+                <h1>Wiki Hunt</h1>
+                <p>Search wikipeadia Articles using Wikimedia API</p>
+                <a href="https://search1.herokuapp.com" target="_blank"><btn class="btn btn-primary"> View Project</btn></a>
+                <a href="https://github.com/jatgov007/Search" target="_blank"><btn class="btn btn-default">Source Code</btn></a>
+                <div class="badge_container"> <span class="badge">Html</span> <span class="badge">Css</span> <span class="badge">javascript</span> <span class="badge">wikimedia API</span> </div>
+            </div>
+        </div>
+        <br/>
+
+        <div class="row">
+            <div class="col-sm-7">
+                <div class="bowser_container">
+                    <div class="bowser_header">
+                        <div class="button_container">
+                            <div class="minmize_button w_button"> </div>
+                            <div class="maximize_button w_button"> </div>
+                            <div class="close_button w_button"> </div>
+                        </div>
+
+                    </div>
+                    <div class="bowser_body"> <img src="img/Final/third.jpg" class="img img-responsive" alt="Project random quote"> </div>
+                </div>
+            </div>
+            <div class="col-sm-4 project_text_container">
+                <h1>To Do App</h1>
+                <p>Single Page Application using Angular JS concepts.</p>
+                <a href="https://todo-project-app.herokuapp.com" target="_blank"><btn class="btn btn-primary"> View Project</btn></a>
+                <a href="https://github.com/jatgov007/TodoApp" target="_blank"><btn class="btn btn-default">Source Code</btn></a>
+                <div class="badge_container"> <span class="badge">Html</span> <span class="badge">Css</span> <span class="badge">javascript</span> </div>
+            </div>
+        </div>
+        <br/>
+
+        <div class="row">
+            <div class="col-sm-7">
+                <div class="bowser_container">
+                    <div class="bowser_header">
+                        <div class="button_container">
+                            <div class="minmize_button w_button"> </div>
+                            <div class="maximize_button w_button"> </div>
+                            <div class="close_button w_button"> </div>
+                        </div>
+
+                    </div>
+                    <div class="bowser_body"> <img src="img/Final/Fourth.jpg" class="img img-responsive" alt="Project random quote"> </div>
+                </div>
+            </div>
+            <div class="col-sm-4 project_text_container">
+                <h1>Calculator App</h1>
+                <p>Learning Angular Concepts</p>
+                <a href="https://jcalculator.herokuapp.com" target="_blank"><btn class="btn btn-primary"> View Project</btn></a>
+                <a href="https://github.com/jatgov007/Calculator" target="_blank"><btn class="btn btn-default">Source Code</btn></a>
+                <div class="badge_container"> <span class="badge">Html</span> <span class="badge">Css</span> <span class="badge">javascript</span> </div>
+            </div>
+        </div>
+       
     </section>
 
     <aside class="bg-dark">
